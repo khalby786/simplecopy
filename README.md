@@ -5,7 +5,7 @@ This is a library I made to just perform the bare minimum functionality for copy
 Coming soon. For now just download the demo.html file.
 
 ## How to Use:
-1. Download and import it with `<script src="simplecopy.min.js"></script>`.
+1. Download and import it with `<script src="simplecopy.min.js"></script>` or use the CDN link `<script src="https://cdn.jsdelivr.net/gh/kyle-rb/simplecopy/simplecopy.min.js"></script>`.
    - Or, just copy it into a script tag or another JavaScript source file.
 2. Call `simplecopy("<your text here>")` from anywhere. (Note: this has to be triggered by a user action because of browser restrictions on copying.)
 3. You're done.
